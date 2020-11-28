@@ -1,6 +1,9 @@
-package org.tweeted.designpatterns.factory.simplefactory;
+package org.tweeted.designpatterns.factory.simple;
 
 import org.slf4j.LoggerFactory;
+import org.tweeted.designpatterns.factory.CourseFactory;
+import org.tweeted.designpatterns.factory.ICourse;
+import org.tweeted.designpatterns.factory.JavaCourse;
 
 import java.util.Calendar;
 

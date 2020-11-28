@@ -1,4 +1,4 @@
-package org.tweeted.designpatterns.factory.simplefactory;
+package org.tweeted.designpatterns.factory;
 
 /**
  * @author tweeted
