@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.tweeted</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>java-design-patterns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tweeted</name>
 	<description>java-design-patterns</description>
